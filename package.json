@@ -39,5 +39,6 @@
   "bugs": {
     "url": "https://github.com/Masikaomondi/react-hooks-react-router-code-along/issues"
   },
-  "homepage": "https://github.com/Masikaomondi/react-hooks-react-router-code-along#readme"
+  "homepage": "https://github.com/Masikaomondi/react-hooks-react-router-code-along#readme",
+  "devDependencies": {}
 }
